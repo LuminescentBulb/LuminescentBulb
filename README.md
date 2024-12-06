@@ -1,4 +1,5 @@
-# chat does markdown work on this
+# hi
+my name is taemin. I like light bulbs.
 
 <!---
 LuminescentBulb/LuminescentBulb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

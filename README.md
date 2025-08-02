@@ -10,7 +10,7 @@ Hey there 👋! I'm Taemin Kim, a junior at the University of Michigan studying 
 ### More About Me
 I spend my downtime plotting world domination in Paradox games (Victoria 3 especially), drumming on pretty much anything that makes noise, and getting way too into debates about cities, politics, and what actually makes a place livable.
 
-- **LinkedIn:** [taemin-kim-010344235](https://www.linkedin.com/in/taemin-kim-010344235/)
+- **LinkedIn:** [Taemin Kim](https://www.linkedin.com/in/taemin-kim-010344235/)
 - **Email:** taeminkm@umich.edu
 
 If you want to talk code, games, or city planning (or you just need a drummer), feel free to reach out.

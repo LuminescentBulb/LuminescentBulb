@@ -12,6 +12,7 @@ I spend my downtime plotting world domination in Paradox games (Victoria 3 espec
 
 - **LinkedIn:** [Taemin Kim](https://www.linkedin.com/in/taemin-kim-010344235/)
 - **Email:** taeminkm@umich.edu
+- **Discord:** luminescentlight
 
 If you want to talk code, games, or city planning (or you just need a drummer), feel free to reach out.
 <!---
